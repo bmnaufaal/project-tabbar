@@ -13,6 +13,7 @@
 		7B87B898285821D100270BB7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B87B896285821D100270BB7 /* Main.storyboard */; };
 		7B87B89A285821D300270BB7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B87B899285821D300270BB7 /* Assets.xcassets */; };
 		7B87B89D285821D300270BB7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B87B89B285821D300270BB7 /* LaunchScreen.storyboard */; };
+		F11ECBAE2858630F00D9B0DE /* SignUpController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F11ECBAD2858630F00D9B0DE /* SignUpController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7B87B899285821D300270BB7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7B87B89C285821D300270BB7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7B87B89E285821D300270BB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F11ECBAD2858630F00D9B0DE /* SignUpController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				7B87B890285821D100270BB7 /* AppDelegate.swift */,
 				7B87B892285821D100270BB7 /* SceneDelegate.swift */,
+				F11ECBAD2858630F00D9B0DE /* SignUpController.swift */,
 				7B87B894285821D100270BB7 /* ViewController.swift */,
 				7B87B896285821D100270BB7 /* Main.storyboard */,
 				7B87B899285821D300270BB7 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				7B87B895285821D100270BB7 /* ViewController.swift in Sources */,
 				7B87B891285821D100270BB7 /* AppDelegate.swift in Sources */,
 				7B87B893285821D100270BB7 /* SceneDelegate.swift in Sources */,
+				F11ECBAE2858630F00D9B0DE /* SignUpController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
